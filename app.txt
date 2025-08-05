@@ -1,2 +1,5 @@
 Function : addStudent()
 Description : Add a new student to the system
+
+Function: deleteStudent()
+Description: Deletes a student from the system.
