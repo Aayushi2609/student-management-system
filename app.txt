@@ -1,0 +1,2 @@
+Function : addStudent()
+Description : Add a new student to the system
